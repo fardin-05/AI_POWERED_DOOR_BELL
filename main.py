@@ -1,4 +1,4 @@
-import cv2
+import cv
 import face_recognition
 from playsound3 import playsound
 import threading
