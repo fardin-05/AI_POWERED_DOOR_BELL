@@ -5,7 +5,7 @@ import threading
 cap = cv2.VideoCapture(0)
 sound_played = False
 
-def ring_bell():
+def ring_bell()
     playsound('doorbell.wav')
 
 
